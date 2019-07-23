@@ -4,7 +4,7 @@ Ppamazon is a simulated online marketplace that runs on the command line using N
 
 ## How to Use
 
-The Ppamazon application comes with three distinct "Views", Customer, Manager, and Supervisor. The Customer can order items from Bamazon, the Manager can restock items and add new items for sale, and the Supervisor can check each department's profits and add new departments.
+The Ppamazon application comes with three distinct "Views", Customer, Manager, and Supervisor. The Customer can order items from Ppamazon, the Manager can restock items and add new items for sale, and the Supervisor can check each department's profits and add new departments.
 
 _________
 
